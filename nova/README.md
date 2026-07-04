@@ -1,6 +1,6 @@
 # Nova — AI Voice Personal Assistant
 
-Build status: **All 8 phases complete.** See `implementation_plan.md` for the original roadmap this was built against.
+This Assistant was created in 8 phases according to implementation plan.
 
 ## What's implemented so far
 
