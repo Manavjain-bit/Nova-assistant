@@ -1,0 +1,7 @@
+[run]
+source = app
+omit = app/tests/*
+
+[report]
+fail_under = 90
+show_missing = True
